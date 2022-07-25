@@ -1,0 +1,48 @@
+Start salary: 20000
+final salary: 62372.96
+Total loan: 53850.00
+Last payment date: 13/2052
+Closing balance: 103682.18
+ Total interest: 15489.01
+Total paid: 34735.45
+
+Start salary: 30000
+final salary: 93559.45
+Total loan: 53850.00
+Last payment date: 13/2052
+Closing balance: 57631.82
+ Total interest: 51385.64
+Total paid: 83452.58
+
+Start salary: 40000
+final salary: 124745.92
+Total loan: 53850.00
+Last payment date: 13/2052
+Closing balance: 31091.27
+ Total interest: 90305.91
+Total paid: 133770.14
+
+Start salary: 50000
+final salary: 138623.36
+Total loan: 53850.00
+Last payment date: 6/2048
+Closing balance: 0
+ Total interest: 91839.73
+Total paid: 144498.91
+
+Start salary: 60000
+final salary: 126410.87
+Total loan: 53850.00
+Last payment date: 10/2041
+Closing balance: 0
+ Total interest: 58100.50
+Total paid: 113021.72
+
+Start salary: 70000
+final salary: 126065.98
+Total loan: 53850.00
+Last payment date: 9/2037
+Closing balance: 0
+ Total interest: 41956.09
+Total paid: 98042.05
+
